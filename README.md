@@ -1,4 +1,4 @@
-## Descripción del Proyecto
+## Project Description
 
-Simple proyecto que sirvió de práctica para interiorizarse con el concepto de Scrapping, vinculando un Front End con un Back End.
-Este proyecto tiene como finalidad realizar el scrapeo de las notas de las distintas materias a las cuales el alumno de la UTN FRC se encuentra inscripto, para poder acceder a las mismas de una forma global desde un solo lugar.
+This is a simple project that his intention was to learn about scrapping technique, connecting a Front End with a Back End.
+The objective is to get different subjects grades from an UTN FRC student, so in this way, the person can have a quick and global access to all the grades in a single place.
